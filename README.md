@@ -1,2 +1,1 @@
-# a1
-Spatiotemporal Analysis of Pig Intestinal Development
+# Spatiotemporal Analysis of Pig Intestinal Development
